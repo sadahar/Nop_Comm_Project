@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="23716" started-at="2023-01-03T13:27:52 IST" finished-at="2023-01-03T13:28:15 IST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="23716" started-at="2023-01-03T13:27:52 IST" finished-at="2023-01-03T13:28:15 IST">
+      <class name="test_class.Test_CLass_For_Login">
+        <test-method status="PASS" signature="B_Launch()[pri:0, instance:test_class.Test_CLass_For_Login@553a3d88]" name="B_Launch" is-config="true" duration-ms="6603" started-at="2023-01-03T13:27:52 IST" finished-at="2023-01-03T13:27:58 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- B_Launch -->
+        <test-method status="PASS" signature="application_login()[pri:0, instance:test_class.Test_CLass_For_Login@553a3d88]" name="application_login" is-config="true" duration-ms="8541" started-at="2023-01-03T13:27:58 IST" finished-at="2023-01-03T13:28:07 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- application_login -->
+        <test-method status="PASS" signature="add_coustermer()[pri:0, instance:test_class.Test_CLass_For_Login@553a3d88]" name="add_coustermer" duration-ms="8495" started-at="2023-01-03T13:28:07 IST" finished-at="2023-01-03T13:28:15 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- add_coustermer -->
+      </class> <!-- test_class.Test_CLass_For_Login -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
